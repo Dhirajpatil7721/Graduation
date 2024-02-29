@@ -11,4 +11,4 @@ provide actionable insights for healthcare and insurance stakeholders,
 empowering them with informed decision-making capabilities.
 HEALTH INSURANCE PRICE PREDICTION
 Used Technology -
-Front-End : HTML , CSS Back-End : Python , ML
+Front-End : HTML , CSS Back-End : Python , ML.
